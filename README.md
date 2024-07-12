@@ -11,10 +11,10 @@ parrafo x hola hola
 ```html
 <p>Hola mundo</p>
 ```
--a
--b
--c
--d
+- a
+- b
+- c
+- d
 
 1. a
 2. b
